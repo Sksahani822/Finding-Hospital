@@ -1,0 +1,43 @@
+16:38:41.235 [main] INFO  Testcase.Alltestcase - *********************TC_010_printingThankyou is Started...***********************
+16:38:45.025 [main] INFO  Testcase.Alltestcase - Details Filled Successfully
+16:38:46.035 [main] INFO  Testcase.Alltestcase - Thankyou messeage is printed successfully
+16:38:46.035 [main] INFO  Testcase.Alltestcase - ************TC_010_printingThankyou is Finished*****************
+16:38:47.943 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+16:38:47.944 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+16:38:48.188 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+16:38:48.208 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+16:38:48.220 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+16:38:48.234 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+16:38:48.235 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+16:38:48.236 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+16:38:48.240 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+16:38:48.282 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+16:38:48.286 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+16:38:48.289 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+16:38:48.290 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+16:38:48.294 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+16:38:48.294 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+16:38:48.295 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+16:38:48.298 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+16:38:48.301 [main] INFO  Testcase.Alltestcase - .....Complete program is Executed Successfully.....
+16:51:51.257 [main] INFO  StepDefinition.Step_Definition - ***************Verification of Url is Started************
+16:52:04.449 [main] INFO  StepDefinition.Step_Definition - ******************Url is verified successfully**************
+16:52:13.963 [main] INFO  StepDefinition.Step_Definition - ******************Searching of Doctor is done successfully**************
+16:52:35.022 [main] INFO  StepDefinition.Step_Definition - ******************Filteration of Doctor in done successfully**************
+16:52:55.031 [main] INFO  StepDefinition.Step_Definition - ******************Doctors details is printed successfully**************
+16:53:00.741 [main] INFO  StepDefinition.Step_Definition - ******************Surgeries List is printed successfully**************
+16:53:07.629 [main] INFO  StepDefinition.Step_Definition - ******************Health and wellness form is filled withn invalid E-mail successfully**************
+16:53:11.546 [main] INFO  StepDefinition.Step_Definition - ******************Health and wellness form is filled withn invalid PhoneNumber successfully**************
+16:53:14.936 [main] INFO  StepDefinition.Step_Definition - ******************Health and wellness form is filled withn valid details successfully**************
+16:53:15.824 [main] INFO  StepDefinition.Step_Definition - ******************Thank you message is printed successfully**************
+16:53:15.824 [main] INFO  StepDefinition.Step_Definition - ******************Execution is Done Successfully**************
+16:54:34.618 [main] INFO  StepDefinition.Step_Definition - ***************Verification of Url is Started************
+16:54:46.153 [main] INFO  StepDefinition.Step_Definition - ******************Url is verified successfully**************
+16:54:57.173 [main] INFO  StepDefinition.Step_Definition - ******************Searching of Doctor is done successfully**************
+16:55:16.374 [main] INFO  StepDefinition.Step_Definition - ******************Filteration of Doctor in done successfully**************
+16:55:35.258 [main] INFO  StepDefinition.Step_Definition - ******************Doctors details is printed successfully**************
+16:55:41.216 [main] INFO  StepDefinition.Step_Definition - ******************Surgeries List is printed successfully**************
+16:55:53.611 [main] INFO  StepDefinition.Step_Definition - ******************Health and wellness form is filled withn invalid E-mail successfully**************
+16:55:57.278 [main] INFO  StepDefinition.Step_Definition - ******************Health and wellness form is filled withn invalid PhoneNumber successfully**************
+16:56:00.360 [main] INFO  StepDefinition.Step_Definition - ******************Health and wellness form is filled withn valid details successfully**************
+16:56:01.459 [main] INFO  StepDefinition.Step_Definition - ******************Thank you message is printed successfully**************

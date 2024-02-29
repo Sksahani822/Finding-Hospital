@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="Testcase.Alltestcase">
+        <methods>
+          <include name="Browserlounch"/>
+          <include name="TC_003_doctor2"/>
+          <include name="TC_002_getting_DoctorList"/>
+          <include name="TC_004_doctor3"/>
+          <include name="TC_010_printingThankyou"/>
+          <include name="TC_008_passingInvalidEmail"/>
+          <include name="TC_006_doctor5"/>
+          <include name="TC_001_verifyCurrenturl"/>
+          <include name="TC_007_surgeries"/>
+          <include name="TC_005_doctor4"/>
+          <include name="TC_009_passingInvalidPhoneNumber"/>
+        </methods>
+      </class> <!-- Testcase.Alltestcase -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
