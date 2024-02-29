@@ -1,0 +1,44 @@
+16:56:01.459 [main] INFO  StepDefinition.Step_Definition - ******************Execution is Done Successfully**************
+17:45:47.572 [main] INFO  StepDefinition.Step_Definition - ***************Verification of Url is Started************
+17:45:57.777 [main] INFO  StepDefinition.Step_Definition - ******************Url is verified successfully**************
+17:46:05.684 [main] INFO  StepDefinition.Step_Definition - ******************Searching of Doctor is done successfully**************
+17:46:24.415 [main] INFO  StepDefinition.Step_Definition - ******************Filteration of Doctor in done successfully**************
+17:46:40.200 [main] INFO  StepDefinition.Step_Definition - ******************Doctors details is printed successfully**************
+17:46:44.373 [main] INFO  StepDefinition.Step_Definition - ******************Surgeries List is printed successfully**************
+17:46:50.485 [main] INFO  StepDefinition.Step_Definition - ******************Health and wellness form is filled withn invalid E-mail successfully**************
+17:46:53.798 [main] INFO  StepDefinition.Step_Definition - ******************Health and wellness form is filled withn invalid PhoneNumber successfully**************
+17:46:56.937 [main] INFO  StepDefinition.Step_Definition - ******************Health and wellness form is filled withn valid details successfully**************
+17:47:12.814 [main] INFO  StepDefinition.Step_Definition - ******************Thank you message is printed successfully**************
+17:47:12.814 [main] INFO  StepDefinition.Step_Definition - ******************Execution is Done Successfully**************
+14:34:19.850 [main] INFO  Testcase.Alltestcase - Chrome browser opened successfully
+14:34:24.159 [main] INFO  Testcase.Alltestcase - ****************TC_001_verifyCurrenturl is Started..************************
+14:34:24.976 [main] INFO  Testcase.Alltestcase - Current URL is verified
+14:34:24.976 [main] INFO  Testcase.Alltestcase - ****************TC_001_verifyCurrenturl is Finished..************************
+14:34:25.040 [main] INFO  Testcase.Alltestcase - ****************TC_002_getting_DoctorList is Started..************************
+14:34:30.009 [main] INFO  Testcase.Alltestcase - ScreenShot captured for HomeForHealth
+14:34:38.726 [main] INFO  Testcase.Alltestcase - Searched the Doctor successfully...
+14:35:34.417 [main] INFO  Testcase.Alltestcase -  Doctor details has been stored in String details 
+14:35:34.418 [main] INFO  Testcase.Alltestcase - ****************TC_002_getting_DoctorList is Started..************************
+14:35:34.422 [main] INFO  Testcase.Alltestcase - ********************TC_007_surgeries is started..***************************
+14:35:37.192 [main] INFO  Testcase.Alltestcase - Surgeries list is displayed successfully
+14:35:43.836 [main] INFO  Testcase.Alltestcase - ********************TC_007_surgeries is Finished..***************************
+14:35:43.841 [main] INFO  Testcase.Alltestcase - *********************TC_008_passingInvalidEmail is Started...***********************
+14:35:56.753 [main] INFO  Testcase.Alltestcase -  with invalid Email is entered
+14:35:56.800 [main] INFO  Testcase.Alltestcase - Verification of Submit button is completed
+14:35:56.800 [main] INFO  Testcase.Alltestcase - *********************TC_008_passingInvalidEmail is Finished...***********************
+14:35:56.805 [main] INFO  Testcase.Alltestcase - *********************TC_009_passingInvalidPhoneNumber is Started...***********************
+14:36:04.407 [main] INFO  Testcase.Alltestcase - Details with invalid PhoneNumber is entered
+14:36:05.140 [main] INFO  Testcase.Alltestcase - verification of submit button is completed
+14:36:05.140 [main] INFO  Testcase.Alltestcase - *********************TC_009_passingInvalidPhoneNumber is Finished...***********************
+14:36:05.145 [main] INFO  Testcase.Alltestcase - *********************TC_010_printingThankyou is Started...***********************
+14:36:11.991 [main] INFO  Testcase.Alltestcase - Details Filled Successfully
+14:36:21.368 [main] INFO  Testcase.Alltestcase - Thankyou messeage is printed successfully
+14:36:21.368 [main] INFO  Testcase.Alltestcase - ************TC_010_printingThankyou is Finished*****************
+14:36:23.907 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+14:36:23.907 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+14:36:24.181 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+14:36:24.205 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+14:36:24.214 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+14:36:24.232 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+14:36:24.237 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+14:36:24.238 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'

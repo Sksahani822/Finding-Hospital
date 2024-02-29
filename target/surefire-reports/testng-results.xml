@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-29T14:33:46 IST" name="Suite" finished-at="2024-02-29T14:36:26 IST" duration-ms="159288">
+    <groups>
+    </groups>
+    <test started-at="2024-02-29T14:33:46 IST" name="ChromeTest" finished-at="2024-02-29T14:36:26 IST" duration-ms="159288">
+      <class name="Testcase.Alltestcase">
+        <test-method is-config="true" signature="Browserlaunch(java.lang.String,java.lang.String)[pri:0, instance:Testcase.Alltestcase@5876a9af]" started-at="2024-02-29T14:33:48 IST" name="Browserlaunch" finished-at="2024-02-29T14:34:24 IST" duration-ms="35465" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method signature="TC_001_verifyCurrenturl()[pri:0, instance:Testcase.Alltestcase@5876a9af]" started-at="2024-02-29T14:34:24 IST" name="TC_001_verifyCurrenturl" finished-at="2024-02-29T14:34:24 IST" duration-ms="832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001_verifyCurrenturl -->
+        <test-method signature="TC_002_getting_DoctorList()[pri:1, instance:Testcase.Alltestcase@5876a9af]" started-at="2024-02-29T14:34:25 IST" name="TC_002_getting_DoctorList" finished-at="2024-02-29T14:35:34 IST" duration-ms="69380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002_getting_DoctorList -->
+        <test-method signature="TC_007_surgeries()[pri:6, instance:Testcase.Alltestcase@5876a9af]" started-at="2024-02-29T14:35:34 IST" name="TC_007_surgeries" finished-at="2024-02-29T14:35:43 IST" duration-ms="9415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_007_surgeries -->
+        <test-method signature="TC_008_passingInvalidEmail()[pri:7, instance:Testcase.Alltestcase@5876a9af]" started-at="2024-02-29T14:35:43 IST" name="TC_008_passingInvalidEmail" finished-at="2024-02-29T14:35:56 IST" duration-ms="12959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_008_passingInvalidEmail -->
+        <test-method signature="TC_009_passingInvalidPhoneNumber()[pri:8, instance:Testcase.Alltestcase@5876a9af]" started-at="2024-02-29T14:35:56 IST" name="TC_009_passingInvalidPhoneNumber" finished-at="2024-02-29T14:36:05 IST" duration-ms="8337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_009_passingInvalidPhoneNumber -->
+        <test-method signature="TC_010_printingThankyou()[pri:9, instance:Testcase.Alltestcase@5876a9af]" started-at="2024-02-29T14:36:05 IST" name="TC_010_printingThankyou" finished-at="2024-02-29T14:36:26 IST" duration-ms="21075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_010_printingThankyou -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Testcase.Alltestcase@5876a9af]" started-at="2024-02-29T14:36:26 IST" name="closeBrowser" finished-at="2024-02-29T14:36:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Testcase.Alltestcase -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
